@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "This file is about $0"
+
 car_name=$1
 
 echo "I am currently driving a $car_name"
