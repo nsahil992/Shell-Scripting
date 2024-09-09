@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function deploy_code_on_github() {
+function deploy_to_github() {
 
 	echo "Enter the file name you want to deploy to the Github: "
 	read file_name
